@@ -1,0 +1,19 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "toni",
+            "email": "anthony@email.com",
+            "full_name": "I Nyoman Anthony Biruna",
+            "password": "12345"
+        }
+    ],"posts": [
+        {
+            "id": 1,
+            "username":"toni",
+            "image_url": "https://images.unsplash.com/photo-1649577291764-2aee381c7b63?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+            "caption": "Suuupppp"
+        }
+    ]
+
+}
